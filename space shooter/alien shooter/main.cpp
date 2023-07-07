@@ -94,17 +94,18 @@ void introScreen()
       displayRasterText(-800, -100, 0.0," STUDENT NAMES");
     
           glColor3f(1.0, 1.0, 1.0);
-    displayRasterText(-800, -200, 0.0," Anusha M Reddy");
-    displayRasterText(-800, -285, 0.0," Apeksha");
+    displayRasterText(-800, -200, 0.0," Mudireddy Hithyshi");
+    displayRasterText(-800, -285, 0.0," N Mythili");
+    displayRasterText(-800, -285, 0.0," Nithya H S");
     
         glColor3f(1.0, 0.0, 0.0);
     displayRasterText(500, -100, 0.0,"Under the Guidance of");
     
         glColor3f(1.0, 1.0, 1.0);
-    displayRasterText(500, -200, 0.0,"Mrs Ambika G N ");
+    displayRasterText(500, -200, 0.0,"Mr Shankar R ");
     
         glColor3f(1.0, 1.0, 1.0);
-    displayRasterText(500, -285, 0.0,"Mrs Vishaka Yadav ");
+    displayRasterText(500, -285, 0.0,"Dr. Sunanda Dixit");
     
         glColor3f(1.0, 0.0, 0.0);
     displayRasterText(-250, -400, 0.0,"Academic Year 2022-2023");
