@@ -3,7 +3,7 @@
 #endif
 #include<stdio.h>
 #include<stdlib.h>
-#include<Glut/glut.h>
+#include<GL/glut.h>
 #include<math.h>
 #define GL_SILENCE_DEPRECATION
 
